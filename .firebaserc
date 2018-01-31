@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "dino1": "dino1-react",
+    "default": "dino1-react"
+  }
+}
